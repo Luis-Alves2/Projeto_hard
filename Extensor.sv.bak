@@ -1,0 +1,10 @@
+module Extensor 
+    (input  wire  [31:0]inSignal,        
+     output reg  [63:0]outSignal
+    );
+
+always @(inSignal)begin
+	outSignal[11:0] <= inSignal[31:20];
+	outSignal[63:32] <= {52{inSignal[11]}};
+end
+endmodule

@@ -1,0 +1,10 @@
+module ModReg
+    (input  wire  [4:0]inVal,        
+     input  wire  loadReg,
+     output reg  [63:0]outVal
+    );
+
+always @(inVal or loadReg)begin
+	if(loadReg == 1) outVal = 0;
+end
+endmodule

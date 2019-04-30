@@ -1,0 +1,10 @@
+module RegA 
+    (input  wire  [4:0]inVal,        
+     input  wire  loadReg,
+     output reg  [63:0]outVal
+    );
+
+alway @(inVal or loadRegA)begin
+	if(loadRegA == 1) outVal = 0;
+end
+endmodule

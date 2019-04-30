@@ -1,0 +1,204 @@
+C:/altera/15.0/Projeto1/controlador.sv {1 {vlog -work work -sv -stats=none C:/altera/15.0/Projeto1/controlador.sv
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+
+} {} {}} C:/altera/15.0/Projeto1/ramOnChip64.v {1 {vlog -work work -stats=none C:/altera/15.0/Projeto1/ramOnChip64.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module ramOnChip64
+
+Top level modules:
+	ramOnChip64
+
+} {} {}} C:/altera/15.0/Projeto1/mux.sv {1 {vlog -work work -sv -stats=none C:/altera/15.0/Projeto1/mux.sv
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}} C:/altera/15.0/Projeto1/ramOnChip32.v {1 {vlog -work work -stats=none C:/altera/15.0/Projeto1/ramOnChip32.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module ramOnChip32
+
+Top level modules:
+	ramOnChip32
+
+} {} {}} C:/altera/15.0/Projeto1/Extensor3.sv {1 {vlog -work work -sv -stats=none C:/altera/15.0/Projeto1/Extensor3.sv
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module Extensor3
+
+Top level modules:
+	Extensor3
+
+} {} {}} C:/altera/15.0/Projeto1/mux2.sv {1 {vlog -work work -sv -stats=none C:/altera/15.0/Projeto1/mux2.sv
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} C:/altera/15.0/Projeto1/Extensor5.sv {1 {vlog -work work -sv -stats=none C:/altera/15.0/Projeto1/Extensor5.sv
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module Extensor5
+
+Top level modules:
+	Extensor5
+
+} {} {}} C:/altera/15.0/Projeto1/extensorSJ.sv {1 {vlog -work work -sv -stats=none C:/altera/15.0/Projeto1/extensorSJ.sv
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module extensorSJ
+
+Top level modules:
+	extensorSJ
+
+} {} {}} C:/altera/15.0/Projeto1/register.sv {1 {vlog -work work -sv -stats=none C:/altera/15.0/Projeto1/register.sv
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} C:/altera/15.0/Projeto1/extensorLB.sv {2 {vlog -work work -sv -stats=none C:/altera/15.0/Projeto1/extensorLB.sv
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module extensorLB
+** Warning: C:/altera/15.0/Projeto1/extensorLB.sv(7): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+** Warning: C:/altera/15.0/Projeto1/extensorLB.sv(9): (vlog-2284) Empty $unit scope found.
+
+
+Top level modules:
+	extensorLB
+
+} {} {}} C:/altera/15.0/Projeto1/mux4.sv {1 {vlog -work work -sv -stats=none C:/altera/15.0/Projeto1/mux4.sv
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module mux4
+
+Top level modules:
+	mux4
+
+} {} {}} C:/altera/15.0/Projeto1/Memoria32.sv {1 {vlog -work work -sv -stats=none C:/altera/15.0/Projeto1/Memoria32.sv
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module Memoria32
+
+Top level modules:
+	Memoria32
+
+} {} {}} C:/altera/15.0/Projeto1/extensorUJ.sv {2 {vlog -work work -sv -stats=none C:/altera/15.0/Projeto1/extensorUJ.sv
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module extensorUJ
+** Warning: C:/altera/15.0/Projeto1/extensorUJ.sv(13): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+** Warning: C:/altera/15.0/Projeto1/extensorUJ.sv(13): (vlog-2284) Empty $unit scope found.
+
+
+Top level modules:
+	extensorUJ
+
+} {} {}} C:/altera/15.0/Projeto1/Extensor.sv {1 {vlog -work work -sv -stats=none C:/altera/15.0/Projeto1/Extensor.sv
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module Extensor
+
+Top level modules:
+	Extensor
+
+} {} {}} C:/altera/15.0/Projeto1/shiftRA.sv {1 {vlog -work work -sv -stats=none C:/altera/15.0/Projeto1/shiftRA.sv
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module shiftRA
+
+Top level modules:
+	shiftRA
+
+} {} {}} C:/altera/15.0/Projeto1/bancoReg.sv {1 {vlog -work work -sv -stats=none C:/altera/15.0/Projeto1/bancoReg.sv
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module bancoReg
+
+Top level modules:
+	bancoReg
+
+} {} {}} C:/altera/15.0/Projeto1/Extensor2.sv {1 {vlog -work work -sv -stats=none C:/altera/15.0/Projeto1/Extensor2.sv
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module Extensor2
+
+Top level modules:
+	Extensor2
+
+} {} {}} C:/altera/15.0/Projeto1/Instr_Reg_RISC_V.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/altera/15.0/Projeto1/Instr_Reg_RISC_V.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Instr_Reg_RISC_V
+-- Compiling architecture behavioral_arch of Instr_Reg_RISC_V
+
+} {} {}} C:/altera/15.0/Projeto1/PC.sv {1 {vlog -work work -sv -stats=none C:/altera/15.0/Projeto1/PC.sv
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} C:/altera/15.0/Projeto1/shiftRL.sv {1 {vlog -work work -sv -stats=none C:/altera/15.0/Projeto1/shiftRL.sv
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module shiftRL
+
+Top level modules:
+	shiftRL
+
+} {} {}} C:/altera/15.0/Projeto1/Extensor4.sv {1 {vlog -work work -sv -stats=none C:/altera/15.0/Projeto1/Extensor4.sv
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module Extensor4
+
+Top level modules:
+	Extensor4
+
+} {} {}} C:/altera/15.0/Projeto1/Memoria64.sv {1 {vlog -work work -sv -stats=none C:/altera/15.0/Projeto1/Memoria64.sv
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module Memoria64
+
+Top level modules:
+	Memoria64
+
+} {} {}} C:/altera/15.0/Projeto1/ValorLido.sv {1 {vlog -work work -sv -stats=none C:/altera/15.0/Projeto1/ValorLido.sv
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module ValorLido
+
+Top level modules:
+	ValorLido
+
+} {} {}} C:/altera/15.0/Projeto1/ula64.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/altera/15.0/Projeto1/ula64.vhd
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity Ula64
+-- Compiling architecture behavioral of Ula64
+
+} {} {}} C:/altera/15.0/Projeto1/mux3.sv {1 {vlog -work work -sv -stats=none C:/altera/15.0/Projeto1/mux3.sv
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module mux3
+
+Top level modules:
+	mux3
+
+} {} {}} C:/altera/15.0/Projeto1/Deslocamento.sv {1 {vlog -work work -sv -stats=none C:/altera/15.0/Projeto1/Deslocamento.sv
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module Deslocamento
+
+Top level modules:
+	Deslocamento
+
+} {} {}} C:/altera/15.0/Projeto1/ModReg.sv {1 {vlog -work work -sv -stats=none C:/altera/15.0/Projeto1/ModReg.sv
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module ModReg
+
+Top level modules:
+	ModReg
+
+} {} {}} C:/altera/15.0/Projeto1/shift.sv {1 {vlog -work work -sv -stats=none C:/altera/15.0/Projeto1/shift.sv
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module shift
+
+Top level modules:
+	shift
+
+} {} {}}
